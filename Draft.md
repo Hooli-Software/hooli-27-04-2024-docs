@@ -30,11 +30,11 @@
 </a>
 
 Страница состоит из следующих блоков:
-- [Боковая панель](#project-front-end-panel-left)
-- [Верхняя панель](#project-front-end-panel-top)
-- [Таблица "Соответствуют критериям"](#project-front-end-table-1)
-- [Таблица "Ближайшие подходящие продукты"](#project-front-end-table-2)
-- [Сайдбар для фильтров](#project-front-end-sidebar)
+- [Боковая панель](#project-front-end-page-search-panel-left)
+- [Верхняя панель](#project-front-end-page-search-panel-top)
+- [Таблица "Соответствуют критериям"](#project-front-end-page-search-table-1)
+- [Таблица "Ближайшие подходящие продукты"](#project-front-end-page-search-table-2)
+- [Сайдбар для фильтров](#project-front-end-page-search-sidebar)
 
 <a name="project-front-end-page-search">
 	<h3>Страница поиска препаратов</h3>
@@ -88,14 +88,14 @@
 - Кнопку "Найти препарат"
 - Кнопку "очистить фильтры"
 
-<a name="project-front-end-page-search-sidebar">
+<a name="project-front-end-page-login">
 	<h3>Страница входа</h3>
 </a>
 
 Содержит:
 - Поле пароля
 
-<a name="project-front-end-page-search-sidebar">
+<a name="project-back-end">
 	<h2>Бек-енд</h2>
 </a>
 
@@ -181,7 +181,7 @@
 
 POSTMAN коллекция предоставляется вместе с проектом.
 
-<a name="project-stack">
+<a name="stack">
 	<h1>Стек технологий</h1>
 </a>
 
@@ -199,7 +199,7 @@ POSTMAN коллекция предоставляется вместе с про
 	- Linode
 	- Digital Ocean
 
-<a name="project-policies">
+<a name="policies">
 	<h1>Условия сотрудничества</h1>
 </a>
 
